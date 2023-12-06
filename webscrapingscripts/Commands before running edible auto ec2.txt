@@ -1,0 +1,19 @@
+ to open x display
+
+Xvfb -ac :99 -screen 0 1280x1024x16 & export DISPLAY=:99
+
+to open chrome
+
+chromium-browser
+
+/usr/bin/python3
+/home/ubuntu/tru2.py
+
+
+Xvfb -ac :99 -screen 0 1280x1024x16 
+/usr/bin/chromium-browser 
+
+Cron
+
+Saving the File
+Press Ctrl-O and press Enter to save the crontab file in Nano. Use the Ctrl-X shortcut to close Nano after you’ve saved the file.

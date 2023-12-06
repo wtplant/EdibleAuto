@@ -1,0 +1,8 @@
+xpath elements that I've tried already 
+
+//*[@id="editor"]/div/div/div[1]/div/div[2]/div[2]/div/div/div[3]/div[5]/div/div/button
+//*[@id="editor"]/div/div/div[1]/div/div[2]/div[2]/div/div/div[3]/div[5]/div
+//*[@id="editor"]/div/div/div[1]/div/div[2]/div[2]/div/div/div[3]/div[5]/div/div
+//*[@id="editor"]/div/div/div[1]/div/div[2]/div[2]/div/div/div[3]/div[5]/div/div
+/html/body/div[1]/div[2]/div[2]/div[1]/div[4]/div[1]/div/div/div[1]/div/div[2]/div[2]/div/div/div[3]/div[5]/div
+/html/body/div[1]/div[2]/div[2]/div[1]/div[4]/div[1]/div/div/div[1]/div/div[2]/div[2]/div/div/div[3]/div[5]/div/div/button
